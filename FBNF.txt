@@ -8,8 +8,8 @@ Fretboard Notes and Frequencies
     A copy of the license is included in the file entitled "fdl-1.3.txt".
 
 You may contact the writer of this document at: ambientmine@protonmail.com
-# Stopped at 1760
-# Stopped at 1760 with line ending
+# Stopped at 3135
+# Stopped at 3135 with line ending
 6-String Guitar
 
 -24 Frets
