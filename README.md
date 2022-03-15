@@ -5,7 +5,7 @@ guitars and 4-6-String basses. These files are currently undergoing formatting c
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
 03/14/22
-  Version .665 released! This release add support for 7-string guitars.
+  Version .665.1 released! This release add support for 7-string guitars.
 
 NOTE:
   GitHub has not been handling my files properly. For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
