@@ -5,6 +5,8 @@ based on tuning and number of strings. FBNF currently supports 6
 guitars and 4-6-String basses. These files are currently undergoing formatting changes. 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
+NOTICE: The 7- and 8-string guitar sections have errors. I am fixing this.
+
 04/04/22
   Version .808 released! This release add support for 8-string guitars.
 
