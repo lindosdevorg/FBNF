@@ -9,9 +9,6 @@ Fretboard Notes & Frequencies is released under the Released under Attribution-N
 
 NOTICE: The 8-string guitar section has errors. I am fixing this.
 
-04/04/22
-  Version .808 released! This release add support for 8-string guitars.
-
 NOTE:
   GitHub has not been handling my files properly. For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
